@@ -1,6 +1,6 @@
 ---
 - name: A demo playbook
-  hosts: f5
+  hosts: 10.4.6.10
   connection: local
 
   environment:
